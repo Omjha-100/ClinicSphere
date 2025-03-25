@@ -5,21 +5,21 @@ Overview
 
 ClinicSphere is a comprehensive Hospital Management System (HMS) built using the MERN stack (MongoDB, Express.js, React, and Node.js). It is designed to streamline hospital operations, manage patient records, doctor appointments, and handle billing processes efficiently.
 
-Features
+# Features
 
-User Authentication & Authorization
+# User Authentication & Authorization
 
 Role-based access control (Admin, Doctor, Receptionist, Patient)
 
 Secure login and registration with JWT authentication
 
-Patient Management
+# Patient Management
 
 Add, update, and delete patient records
 
 View medical history and prescriptions
 
-Doctor & Staff Management
+# Doctor & Staff Management
 
 Schedule appointments with doctors
 
@@ -27,31 +27,31 @@ Assign doctors to patients
 
 Manage staff roles and schedules
 
-Appointment Scheduling
+# Appointment Scheduling
 
 Online appointment booking system
 
 Automated reminders and notifications
 
-Billing & Invoicing
+# Billing & Invoicing
 
 Generate invoices and manage payments
 
 Insurance claim processing
 
-Medical Reports & Prescriptions
+# Medical Reports & Prescriptions
 
 Store, view, and update medical reports
 
 Prescription management system
 
-Admin Dashboard
+# Admin Dashboard
 
 Overview of hospital operations and analytics
 
 Manage departments and system configurations
 
-Tech Stack
+# Tech Stack
 
 Frontend: React.js (with Redux for state management)
 
